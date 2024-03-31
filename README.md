@@ -1,8 +1,8 @@
-- I’m Haris Themistocleous  (@themistocleous) a linguist with research interests in speech, language, and communication. 
-- I’m interested in the relatioship between brain, language, and communication.
-- I’m devloping personalized, high-quality multimodal models for speech and language assessment and diagnosis and prognosis of patients with speech and language pathology.
-- I employ methods from Linguistics, Machine Learning (ML), Natural Language Processing (NLP), Signal Processing, and Statistical Modeling.
-- 📫 Shoot me an email at themistocleous@gmail.com or see my website https://charalambosthemistocleous.com/ for more.
+Hello, I'm Haris Themistocleous (@themistocleous), a linguist passionate about exploring the intricate connections between speech, language, and communication. My research delves into the dynamic interplay between the brain, language, and communication, aiming to unravel the complexities of how they interact.
+
+Currently, I'm developing personalized, high-quality multimodal models. These models are designed to enhance the assessment, diagnosis, and prognosis of patients with speech and language pathologies, integrating cutting-edge approaches from Linguistics, Machine Learning (ML), Natural Language Processing (NLP), Signal Processing, and Statistical Modeling.
+
+If you're interested in collaborating or learning more about my work, please don't hesitate to reach out. Contact me via email at themistocleous@gmail.com or visit my website at https://charalambosthemistocleous.com/ for additional information.
 
 <!---
 themistocleous/themistocleous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
